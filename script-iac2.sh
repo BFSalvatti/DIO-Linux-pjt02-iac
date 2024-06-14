@@ -6,7 +6,6 @@ apt-get upgrade -y
 apt-get install apache2 -y
 apt-get install unzip  -y
 apt-get install wget -y
-echo "Done"
 
 echo "Baixando e alocando os arquivos da aplicação..."
 
